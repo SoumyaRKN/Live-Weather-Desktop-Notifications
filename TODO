@@ -1,0 +1,7 @@
+1. Live Weather Desktop Notifications.
+	* Check the Operating System and write different code for different OS.
+	* Make request to weather API and get data based on current location.
+	* Then extract the required data and send notification.
+
+	# Use Case
+		* Can be used to get updates.
